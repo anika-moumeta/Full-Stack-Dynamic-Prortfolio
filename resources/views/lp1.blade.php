@@ -63,22 +63,22 @@
       {
         title: "Project One",
         description: "This is the first project description.",
-        image: "https://via.placeholder.com/300x150?text=Project+1"
+        image: "https://images.unsplash.com/photo-1494697536454-6f39e2cc972d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         title: "Project Two",
         description: "This is the second project description.",
-        image: "https://via.placeholder.com/300x150?text=Project+2"
+        image: "https://images.unsplash.com/photo-1494697536454-6f39e2cc972d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         title: "Project Three",
         description: "This is the third project description.",
-        image: "https://via.placeholder.com/300x150?text=Project+3"
+        image: "https://images.unsplash.com/photo-1494697536454-6f39e2cc972d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         title: "Project Four",
         description: "This is the fourth project description.",
-        image: "https://via.placeholder.com/300x150?text=Project+4"
+        image: "https://images.unsplash.com/photo-1494697536454-6f39e2cc972d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D"
       }
     ];
 

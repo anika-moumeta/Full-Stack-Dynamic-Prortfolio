@@ -11,9 +11,9 @@
 <body>
     <header class="header">
         <a href="#home" class="logo">
-            Anika <span>Afrin </span><span>Moumeta</span>
+            Anika <span>Afrin </span>Moumeta
         </a>
-        <i class='bx bx-menu' id='menu-icon'></i>
+        <i class='bx bx-menu-wide' id='menu-icon'></i>
 
         <nav class="navbar">
             <a href="#home">Home</a>
@@ -28,13 +28,13 @@
         <div class="home-content">
             <h1>Hi, It's <span>Anika</span></h1>
             <h3 class="text-animation">I'm a <span></span></h3>
-            <p>I'm a web developer and designer. I'm also an undergradute student. I'm currently pursuing my bachelor's degree at Daffodil International University.</p>
+            <p>web developer and designer. I'm also an undergradute student. I'm currently pursuing my bachelor's degree at Daffodil International University.</p>
 
             <div class="social-icons">
-                <a href="#"><i class='bx bxl-github'></i></a>
-                <a href="#"><i class='bx bxl-linkedin'></i></a>
-                <a href="#"><i class='bx bxl-instagram-alt'></i></a>
-                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bx-github'></i></a>
+                <a href="#"><i class='bx bx-linkedin'></i></a>
+                <a href="#"><i class='bx bx-instagram-alt'></i></a>
+                <a href="#"><i class='bx bx-facebook'></i></a>
             </div>
 
             <div class="btn-group">
