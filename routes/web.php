@@ -21,6 +21,10 @@ Route::get('/lp1', function () {
     return view('lp1');
 });
 
-Route::get('/labwork', function () {
-    return view('labwork');
+Route::get('/edu', function () {
+    return view('edu');
+});
+
+Route::get('/about', function () {
+    return view('about');
 });
