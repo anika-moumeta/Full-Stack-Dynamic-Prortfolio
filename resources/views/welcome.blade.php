@@ -20,10 +20,9 @@
 
     <section class="home" id="home">
         <div class="home-content">
-            <div>
                 <h1>Hi, It's <span>Anika</span></h1>
             <h3 class="text-animation">I'm a <span></span></h3>
-            <p>web developer and designer. I'm also an undergradute student. I'm currently pursuing my bachelor's degree at Daffodil International University.</p>
+            <p>I'm also an undergradute student. I'm currently pursuing my bachelor's degree at Daffodil International University.</p>
 
             <div class="social-icons">
                 <a href="#"><i class="bi bi-github"></i></a>
@@ -36,10 +35,8 @@
                 <a href="#" class="btn">About Me</a>
                 <a href="#contact" class="btn">Contacts</a>
             </div>
-            </div>
-
-            <div class="home-img">
-                <img src="{{asset('assets/images/profile.jpg')}}" alt="Anika's Image">
-            </div>
+        </div>
+        <div class="home-img">
+            <img src="{{asset('assets/images/profile.jpg')}}" alt="Anika's Image">
         </div>
     </section>

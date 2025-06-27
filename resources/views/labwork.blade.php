@@ -14,60 +14,7 @@
                 Click to change Text
             </button>
     </div>
-    @keyframes cursor{
-    to{
-        border-left: 2px solid #00ffee;
-    }
-}
-
-@keyframes words{
-    0%,
-    20%{
-        content: "Frontend Developer";
-    }
-    21%,
-    40%{
-        content: "Web designer";
-    }
-    41%,
-    60%{
-        content: "UI/UX Designer";
-    }
-    61%,
-    80%{
-        content: "Web Developer";
-    }
-    81%,
-    100%{
-        content: "Student";
-    }
-}
-
-@keyframes typing{
-    10%,
-    15%,
-    30%,
-    35%,
-    50%,
-    55%,
-    70%,
-    75%,
-    90%,
-    95%{
-        width: 0;
-    }
-    5%,
-    20%,
-    25%,
-    40%,
-    45%,
-    60%,
-    65%,
-    80%,
-    85%{
-        width: calc(100% + 8px);
-    }
-}-->
+    
 
     <script src="{{asset('assets/js/script.js')}}"></script>
 </body>
